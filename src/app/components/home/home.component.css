@@ -1,0 +1,15 @@
+body{
+    height: 1024px;
+    width: 1024px;
+    position: fixed;
+}
+#headlbl{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    margin-top: 10rem;
+    margin-left: 50%;
+}
+.search{
+    column-width: 500pc;
+}
